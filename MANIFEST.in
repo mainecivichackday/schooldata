@@ -1,4 +1,0 @@
-include README.md
-recursive-include schooldata/static *
-recursive-include schooldata/templates *
-recursive-include schooldata/apps *
